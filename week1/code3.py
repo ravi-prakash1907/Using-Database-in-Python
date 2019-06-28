@@ -17,9 +17,9 @@ class PartyAnimal:
 
 an = PartyAnimal()
 
-x = PartyAnimal('Kutta')
+x = PartyAnimal('Jerry')
 x.party()
 
-y = PartyAnimal('Billi')
+y = PartyAnimal('Tom')
 x.party()
 y.party()

@@ -26,10 +26,10 @@ class FootballFan(PartyAnimal):
 
 an = PartyAnimal()
 
-x = PartyAnimal('Kutta')
+x = PartyAnimal('Jerry')
 x.party()
 
-y = FootballFan('Billi')
+y = FootballFan('Fan')
 x.party()
 y.party()
 y.touchdown()

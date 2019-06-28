@@ -25,5 +25,5 @@ an.party()
 an = 6
 print("New", an)
 
-x = PartyAnimal('Kutta')
+x = PartyAnimal('Puppy')
 x.party()
